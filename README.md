@@ -35,43 +35,7 @@ chmod +x ~/Desktop/ApplicationHelper.command
 
 2. Double-click the `ApplicationHelper.command` file on your desktop to run!
 
----
-
-### Windows
-
-**Prerequisites:**
-1. Install Python 3.9+ from [python.org](https://www.python.org/downloads/)
-   - ✅ **CHECK: "Add Python to PATH"** during installation
-   
-2. Open Command Prompt and run:
-```cmd
-pip install groq google-auth-oauthlib google-auth-httplib2 google-api-python-client
-```
-
-**To run the app:**
-```cmd
-cd C:\path\to\ApplicationHelper
-python main.py
-```
-
-**To make it a clickable app (no Command Prompt needed):**
-
-1. Create a batch file:
-   - Open Notepad
-   - Paste:
-   ```batch
-   @echo off
-   cd C:\path\to\ApplicationHelper
-   python main.py
-   pause
-   ```
-   - Save as `ApplicationHelper.bat` in your ApplicationHelper folder
-
-2. Right-click the .bat file → **Send to** → **Desktop (create shortcut)**
-
-3. Double-click the desktop shortcut to run!
-
----
+--
 
 ## Setup & Configuration
 
@@ -115,10 +79,6 @@ Place these in your ApplicationHelper folder:
 - `client_secret_*.json` - Your Google OAuth credentials file (if using Google Sheets)
 - `.env` - Environment variables (created above, never commit this!)
 
-### ⚠️ Important: Never Commit `.env`
-
-The `.env` file contains your API keys and should **never** be committed to version control. It's already listed in `.gitignore` to prevent accidental commits.
-
 ## Usage
 
 Run the application:
@@ -146,14 +106,6 @@ ApplicationHelper/
 │   └── cover_letter_template.txt   # Cover letter template
 └── README.md                        # This file
 ```
-
-## Coming Soon
-
-- Gemini API integration for ATS keyword extraction
-- LLM integration for answer generation
-- Google Sheets API integration
-- Desktop notifications/toast messages
-- Cover letter generation to Downloads folder
 
 ## Notes
 
