@@ -1,0 +1,20 @@
+Dear [HIRING_MANAGER],
+
+I am [BRIEF_BACKGROUND], and I'm excited to bring my experience in [KEY_SKILLS] to [COMPANY_NAME]'s [ROLE_TITLE] role. Through [RELEVANT_BACKGROUND], I have developed a strong foundation in [CORE_COMPETENCIES], and I'm confident I can contribute meaningfully to your team.
+
+My professional experience directly aligns with what you're looking for. [SPECIFIC_ACCOMPLISHMENT_1], and [SPECIFIC_ACCOMPLISHMENT_2] where I delivered [MEASURABLE_IMPACT]. In my time at [COMPANY_EXPERIENCE], I've consistently demonstrated my ability to [KEY_ACHIEVEMENT] while working with technologies like [TECH_STACK]. These experiences have taught me how to [PROFESSIONAL_INSIGHT].
+
+A particularly relevant example is [CONCRETE_PROJECT_EXAMPLE], where [PROJECT_DETAILS]. This experience shows my ability to [HOW_IT_DEMONSTRATES_VALUE] and my commitment to delivering quality solutions.
+
+I'm genuinely excited about the opportunity to contribute to [COMPANY_NAME]'s mission and grow professionally in this role. I'd welcome the chance to discuss how my background can help your team succeed.
+
+Thank you for your time and consideration.
+
+Best regards,
+Max Nguyen 
+I am a second-year student at the University of Toronto studying Computer Science in the Faculty of Arts and Science. I hope to apply my 4+ Years of Swift and 5+ years of Python experience, past work building iOS applications, and general version control and software creation skills towards developing a streamlined app for athletes to share their performance alongside the Sport Testing team.
+Through my courses at the University of Toronto and Advanced Placement curriculum in high school, I have built a strong understanding of object-oriented programming, fundamental Computer Science design concepts, app building, and computer vision. In my resume, I highlight personal projects and hackathon projects where I have directly implemented these skills using Swift, Python, and other frameworks. A few of these projects—including the Course Scheduling App and Wei Lab research—have reached local and global audiences in the field of video processing, impacting over 3000 students and exploring uncharted areas of scheduling and medicine respectively. I am excited to leverage my problem-solving skills and experience delivering on long-term software projects to carefully develop quality solutions with Sport Testing. 
+Recently at a VMware coding event framed around mental health, I worked with a team of 4 students across the world to create an iOS app that would automatically schedule mental health breaks into the native apple Calendar app found on every iPhone. Through interfacing our code with iOS’s CalendarKit API and referencing additional online documentation and resources beyond those provided by the event, my team and I were able to bring our idea to life and won second place at the event overall. 
+I am excited for the chance to meld my skills in video processing and mobile apps to contribute to the development of a Sport Testing app and enhance my professional development through this opportunity. 
+Thank you for your time and consideration, 
+Andrew Max Nguyen 

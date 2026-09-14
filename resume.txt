@@ -1,0 +1,22 @@
+TECHNICAL SKILLS
+JavaScript, Java, C#, Swift, SQL, Node.js, Django
+
+EXPERIENCE
+Software Engineer - Haptic Vision Inc | May 2026 - Present
+• Built end-to-end C# and Arduino pipeline, reducing latency by 95%
+• Engineered accessibility features for blind and low-vision users
+• Implemented real-time interactive features
+
+Software Intern - Athletic Testing Company | Nov 2024 - Aug 2025
+• Developed iOS app with Swift and OpenCV for motion capture
+• Deployed to Apple App Store for 1M+ users
+• Implemented movement analysis algorithms for 5+ test types
+
+Software Intern - Mozilla Firefox | Nov 2024 - May 2025
+• Implemented Download Manager using SwiftUI
+• Collaborated with Mozilla team on iOS codebase
+• Refactored telemetry infrastructure
+
+EDUCATION
+B.S. Computer Science & Mathematics - University of Toronto | May 2027
+Coursework: Operating Systems, Databases, Data Structures, Networks, ML
